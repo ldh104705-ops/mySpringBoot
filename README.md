@@ -7,4 +7,4 @@
 ## 제출 영상
 
 - 주제: 자바의 기초와 실무에서 자주쓰는 기능
-- 영상 URL: https://youtube.com/shorts/ISXeKyl4alc?si=C66a23Gr4Ds0qdpD
+- 영상 URL: https://youtube.com/shorts/egG0TTWpaJk
