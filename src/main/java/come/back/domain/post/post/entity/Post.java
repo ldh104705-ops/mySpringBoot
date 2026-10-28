@@ -1,4 +1,4 @@
-package come.back.com.back.domain.post.post.entity;
+package come.back.domain.post.post.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
